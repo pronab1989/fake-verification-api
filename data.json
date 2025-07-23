@@ -8703,5 +8703,140 @@
     "name": "Amidopyrine",
     "status": "Banned",
     "remarks": "Not Safe"
+  },
+  {
+    "name": "Phenacetin",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Nialamide",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+   {
+    "name": "Methaqualone",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Methapyriline (and its salts)",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Practolol",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Penicillin skin/eye ointment",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Tetracycline",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Oxytetracyline",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Demeclocycline liquid oral preparations",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Chloral hydrate",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Fenfluramine",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Dexfenfluramine",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Terfenadine",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": " Astemizole",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": " Phenformin",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Rofecoxib",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Valdecoxib",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Rosiglitazone",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": " Cisapride",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Rimonabant",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Phenyl Propanolamine",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Sibutramine",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "R-Sibutramine",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Gatifloxacin",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Tegaserod",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Rofecoxib",
+    "status": "Banned",
+    "remarks": "Not Safe"
+  },
+  {
+    "name": "Rofecoxib",
+    "status": "Banned",
+    "remarks": "Not Safe"
   }
 ]
