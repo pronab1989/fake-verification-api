@@ -25,12 +25,22 @@
     "remarks": "Safe to use"
   },
   {
-    "name": "Metoprolol Succinate 25mg (Extended Release) and Amlodipine Besilate 5mg Tablets IP",
+    "name": "Metoprolol Succinate 25mgP",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+   {
+    "name": "Amlodipine Besilate 5mg Tablets IP",
     "status": "Approved",
     "remarks": "Safe to use"
   },
   {
-    "name": "Doxylamine Succinate 20mg and Pyridoxine Hydrochloride 20mg Tablets",
+    "name": "Doxylamine Succinate 20mg Tablets",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+   {
+    "name": "Pyridoxine Hydrochloride 20mg Tablets",
     "status": "Approved",
     "remarks": "Safe to use"
   },
@@ -85,7 +95,7 @@
     "remarks": "Safe to use"
   },
   {
-    "name": "Cyclosporin Capulses IP 25mg",
+    "name": "Cyclosporin Capsules IP 25mg",
     "status": "Approved",
     "remarks": "Safe to use"
   },
@@ -235,7 +245,7 @@
     "remarks": "Safe to use"
   },
   {
-    "name": "Haematinic Syrup of Iron 32mg ,Folic Acid 0.5mg and Vitamin B12 7.5mcg",
+    "name": "Haematinic Syrup of Iron 32mg, Folic Acid 0.5mg and Vitamin B12 7.5mcg",
     "status": "Approved",
     "remarks": "Safe to use"
   },
