@@ -8698,5 +8698,10 @@
     "name": "Cotton Ear Buds",
     "status": "Approved",
     "remarks": "Safe to use"
+  },
+  {
+    "name": "Amidopyrine",
+    "status": "Banned in India ",
+    "remarks": "Not Safe"
   }
 ]
