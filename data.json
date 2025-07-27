@@ -2075,7 +2075,22 @@
     "remarks": "Safe to use"
   },
   {
-    "name": "Trypsin 48mg, Bromelain 90mg, Rutoside Trihydrate 100mg and Diclofenac Sodium 50mg Tablets",
+    "name": "Trypsin 48mg ",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+  {
+    "name": "Bromelain 90mg ",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+  {
+    "name": " Rutoside Trihydrate 100mg ",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+  {
+    "name": " Diclofenac Sodium 50mg Tablets",
     "status": "Approved",
     "remarks": "Safe to use"
   },
