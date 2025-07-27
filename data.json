@@ -415,12 +415,27 @@
     "remarks": "Safe to use"
   },
   {
-    "name": "Olmesartan 20mg, Amlodipine 5mg and Hydrochlorothiazide 12.5mg Tablets",
+    "name": "Olmesartan 20mg",
     "status": "Approved",
     "remarks": "Safe to use"
   },
   {
-    "name": "Olmesartan Medoxomil 20mg and Hydrochlorothiazide 12.5mg Tablets IP",
+    "name": "Amlodipine 5mg ",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+  {
+    "name": "Hydrochlorothiazide 12.5mg Tablets",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+  {
+    "name": "Hydrochlorothiazide 12.5mg Tablets IP",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+  {
+    "name": "Olmesartan Medoxomil 20mg ",
     "status": "Approved",
     "remarks": "Safe to use"
   },
@@ -435,7 +450,12 @@
     "remarks": "Safe to use"
   },
   {
-    "name": "Pregabalin 75mg and Nortriptyline 10mg Tablets",
+    "name": "Pregabalin 75mg",
+    "status": "Approved",
+    "remarks": "Safe to use"
+  },
+   {
+    "name": " Nortriptyline 10mg Tablets",
     "status": "Approved",
     "remarks": "Safe to use"
   },
